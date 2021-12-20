@@ -1,8 +1,11 @@
+// Styles
+import './Text.css';
+
 export default function Text(props) {
-  const { text } = props;
+  const { text, textClass } = props;
   return (
-    <div>
-      <p>{text}</p>
-    </div>
+    <>
+      <p className={textClass}>{text}</p>
+    </>
   );
 }

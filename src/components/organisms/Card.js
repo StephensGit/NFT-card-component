@@ -16,8 +16,10 @@ export default function Card() {
     <div className='card'>
       <Image className='headerImg' image={headerImg} imgClass={'headerImg '} />
       <CardContent />
-      <Ethereum />
-      <Time />
+      <div className='flex-row'>
+        <Ethereum className='ethereum' />
+        <Time className='time' />
+      </div>
       <Footer />
     </div>
   );

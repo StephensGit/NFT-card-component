@@ -10,9 +10,9 @@ import clockIcon from '../../images/icon-clock.svg';
 
 export default function Time() {
   return (
-    <div>
+    <div className='time'>
       <Image className='clockIcon' image={clockIcon} imgClass={'clockIcon'} />
-      <Text text={'3 days left'} />
+      <Text text={'3 days left'} textClass={'text'} />
     </div>
   );
 }

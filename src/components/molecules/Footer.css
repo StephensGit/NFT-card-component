@@ -1,0 +1,18 @@
+.card-footer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 15px;
+}
+
+.card-footer .span {
+  margin-left: 16px;
+  color: hsl(215, 51%, 70%);
+  font-weight: 300;
+}
+
+.card-footer .text {
+  margin-left: 4px;
+  color: #ffffff;
+  font-weight: 300;
+}

@@ -1,8 +1,11 @@
+// Styles
+import './HeaderTwo.css';
+
 export default function HeaderTwo(props) {
-  const { text } = props;
+  const { text, titleClass } = props;
   return (
-    <div>
-      <h2>{text}</h2>
-    </div>
+    <>
+      <h2 className={titleClass}>{text}</h2>
+    </>
   );
 }

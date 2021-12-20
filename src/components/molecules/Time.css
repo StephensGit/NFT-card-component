@@ -1,0 +1,10 @@
+.time {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.time .text {
+  color: hsl(215, 51%, 70%);
+  margin: 0px 0px 0px 10px;
+}

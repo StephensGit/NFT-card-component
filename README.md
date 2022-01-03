@@ -14,8 +14,13 @@ This is my solution to the [NFT-card component challenge on Frontend Mentor](htt
 
 
 ## Overview
+
 For this project, the purpose is to build the card component and build it as close to the design spec supplied. I wanted to practice using atomic design principles in React components with this challenge, therefore I've only created the desktop version.
 
+### The challenge
+
+The challenge is to build out this card component and get it looking as close to the design as possible. 
+There is a folder called 'design' within the 'public' folder containing the images I used to replicate the design.
 
 ### Links
 

@@ -1,4 +1,4 @@
-NFT-card component
+# NFT-card component
 
 This is my solution to the [NFT-card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U).
 

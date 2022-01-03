@@ -19,7 +19,7 @@ For this project, the purpose is to build the card component and build it as clo
 
 ### Links
 
-- Live Site URL: (https://stephen-moran-github-user-search.netlify.app/)
+- Live Site URL: (https://stephen-moran-nfc-card-cpmponent.netlify.app/)
 
 
 ### Screenshot
